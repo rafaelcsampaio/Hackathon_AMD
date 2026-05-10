@@ -1,0 +1,22 @@
+# --- Audio Perception (STT) ---
+openai-whisper
+numpy
+sounddevice
+scipy
+
+# --- Audio Feedback (TTS) ---
+edge-tts
+pygame-ce
+langdetect
+
+# --- Vision Engine ---
+PyAutoGUI
+Pillow
+opencv-python
+
+# --- AI Brain (Fireworks API) ---
+requests
+openai
+
+# --- Code Injection & Utils ---
+pyperclip
